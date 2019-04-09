@@ -1,0 +1,13 @@
+{
+  "name": "@kodbruket/wait-for",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^1.1.0",
+    "cross-fetch": "^3.0.2"
+  },
+  "bin": {
+    "wait-for": "bin/index.js"
+  }
+}
